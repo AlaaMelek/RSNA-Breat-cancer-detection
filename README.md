@@ -1,5 +1,5 @@
 # RSNA-Breat-cancer-detection
-AWS's ML Engineer nano degree capstone project. Breast cancer detection using siamse neural networks.
+AWS's ML Engineer nano degree capstone project. Breast cancer detection using siamese neural networks.
 
 ## Files
 RSNA_data_EDA.ipynb. (Exploratory Data Analysis) \
